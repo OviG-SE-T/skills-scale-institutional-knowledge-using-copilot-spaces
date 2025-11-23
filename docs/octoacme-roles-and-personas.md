@@ -251,7 +251,7 @@ Technical Writers ensure documentation is comprehensive, consistent, accessible,
 - Documentation feedback and improvement discussions
 
 ### Related Documents
-- All process documents in the [docs folder](README.md) are maintained with Technical Writer collaboration
+- All process documents in the [project documentation](README.md) are maintained with Technical Writer collaboration
 - [Release & Deployment Guide](octoacme-release-and-deployment.md) for release notes coordination
 
 ---
